@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a **Full-Stack Software Engineer** with over 9 years of experience in building responsive, high-performance web applications and digital solutions. Currently, I am advancing my technical foundation and expanding my expertise through a **Master of Science in Computer Science and Artificial Intelligence at Boston University**.
 
-My technical background spans modern front-end technologies, robust back-end ecosystems, and core computer science principles—including systems programming in C, application development in Java and Python, and data analysis using Jupyter Notebooks.
+My technical background spans modern front-end technologies, robust back-end ecosystems, and core computer science principles—including systems.
 
 ---
 
