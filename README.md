@@ -58,8 +58,3 @@ My technical background spans modern front-end technologies, robust back-end eco
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-<p align="center">
-  [<img src="https://visitcount.itsvg.in/api?id=leninpulgar&icon=0&color=0"/>](https://visitcount.itsvg.in)
-</p>
