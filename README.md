@@ -5,6 +5,10 @@ My technical background spans modern front-end technologies, robust back-end eco
 
 ---
 
+[📄 View My Professional Resume](https://github.com/leninpulgar/leninpulgar/blob/main/Resume%20-%20Lenin%20Pulgar.pdf)
+
+---
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lenin-pb) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lenindpulgar@gmail.com)
